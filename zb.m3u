@@ -205,11 +205,11 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/991d0a1e4fc3c270d037fae11c587741.m3u8
 #EXTINF:-1 tvg-id="7227" tvg-name="华艺影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huayi_yingju.png" group-title="港台影视",华艺影剧
 http://pili-live-hdl.qhmywl.com:80/dsdtv/49d33b7521ceef2115572e8906e9f906.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="港台影视",CHC高清电影
-rtmp://58.200.131.2:1935/livetv/chchd
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="港台影视",CHC家庭电影
-rtmp://58.200.131.2:1935/livetv/chctv
+http://125.210.152.18:9090/live/JTYYHD.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="港台影视",CHC动作电影
-rtmp://58.200.131.2:1935/livetv/chcatv
+http://125.210.152.18:9090/live/DZDYHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台影视",凤凰电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="综合娱乐",TVB翡翠台
