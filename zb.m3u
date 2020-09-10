@@ -268,7 +268,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/7f2e2b78b85222886ccb3792c905408e.m3u8
 rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港台频道",国家地理频道
 rtmp://58.200.131.2:1935/livetv/natlgeo
-#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="https://vignette.wikia.nocookie.net/logos-3/images/2/24/Bbc_lifestyle.png/revision/latest/scale-to-width-down/200?cb=20181013060838" group-title="港台育乐",BBCLifestyle
+#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="https://vignette.wikia.nocookie.net/logos-3/images/2/24/Bbc_lifestyle.png/revision/latest/scale-to-width-down/200?cb=20181013060838" group-title="港台频道",BBCLifestyle
 http://pili-live-hdl.qhmywl.com:80/dsdtv/5e80f4a9e17c991df381030c65856687.m3u8
 #EXTINF:-1 tvg-id="6100" tvg-name="信吉电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="港台频道",信吉电视
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
