@@ -9,8 +9,8 @@ CCTV-6电影,http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8#http://150.1
 CCTV-7国防军事,http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
 CCTV-8电视剧,http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000008/index.m3u8
 CCTV-9纪录,http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
-CCTV-10科教,http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8 
-CCTV-11戏曲,http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000011/index.m3u8 
+CCTV-10科教,http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
+CCTV-11戏曲,http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000011/index.m3u8
 CCTV-12社会与法,http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
 CCTV-13新闻,http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8#http://150.138.8.143/00/SNM/CHANNEL00000013/index.m3u8
 CCTV-14少儿,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
@@ -21,7 +21,7 @@ CCTV-4美洲,http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 CGTN英文记录片,http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
 CGTN西班牙语,http://150.138.8.143/00/SNM/CHANNEL00000354/index.m3u8
-CGTN法语,http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8   
+CGTN法语,http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8
 CGTN阿拉伯语,http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
 CGTN俄语,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 
@@ -62,32 +62,32 @@ CGTN俄语,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 农林卫视,http://150.138.8.143/00/SNM/CHANNEL00000072/index.m3u8
 
 省内频道,#genre#
-山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8    
-山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8      
+山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
+山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
 山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
-山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000054/index.m3u8      
-山东生活,http://150.138.8.143/00/SNM/CHANNEL00000055/index.m3u8      
+山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000054/index.m3u8
+山东生活,http://150.138.8.143/00/SNM/CHANNEL00000055/index.m3u8
 山东影视,http://150.138.8.143/00/SNM/CHANNEL00000056/index.m3u8
 山东农科,http://150.138.8.143/00/SNM/CHANNEL00000058/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL10000062/index.m3u8
 济南鲁中,http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
 济南科教,http://150.138.8.143/00/SNM/CHANNEL00000245/index.m3u8
 济南新闻,http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
-济南都市,http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8    
-济南生活,http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8      
-济南影视,http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8      
-济南娱乐,http://150.138.8.143/00/SNM/CHANNEL00000065/index.m3u8      
-济南商务,http://150.138.8.143/00/SNM/CHANNEL00000066/index.m3u8      
-济南少儿,http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8      
+济南都市,http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
+济南生活,http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8
+济南影视,http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8
+济南娱乐,http://150.138.8.143/00/SNM/CHANNEL00000065/index.m3u8
+济南商务,http://150.138.8.143/00/SNM/CHANNEL00000066/index.m3u8
+济南少儿,http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
 济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
-QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8      
-QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8      
-QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8      
-QTV-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8      
-QTV-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8      
-QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8      
-德州新闻,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8      
+QTV-1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
+QTV-2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
+QTV-3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
+QTV-4,http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
+QTV-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
+QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
+德州新闻,http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 德州公共,http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
 潍坊新闻,http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
 潍坊都市,http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
@@ -102,13 +102,13 @@ QTV-6,http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 日照综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
 日照公共,http://150.138.8.143/00/SNM/CHANNEL00000275/index.m3u8
-烟台新闻,http://150.138.8.143/00/SNM/CHANNEL00000280/index.m3u8      
+烟台新闻,http://150.138.8.143/00/SNM/CHANNEL00000280/index.m3u8
 烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
 经济科技,http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 烟台影视,http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
-淄博新闻,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8      
-淄博都市,http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8      
-淄博生活,http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8      
+淄博新闻,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
+淄博都市,http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
+淄博生活,http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
 淄博科教,http://150.138.8.143/00/SNM/CHANNEL00000295/index.m3u8
 CETV4,http://150.138.8.143/00/SNM/CHANNEL00000070/index.m3u8
 海看生活，http://150.138.8.143/00/SNM/CHANNEL00000202/index.m3u8
@@ -131,7 +131,7 @@ CETV4,http://150.138.8.143/00/SNM/CHANNEL00000070/index.m3u8
 美人,http://150.138.8.143/00/SNM/CHANNEL00000612/index.m3u8
 四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
 优优宝贝,http://150.138.8.143/00/SNM/CHANNEL00000641/index.m3u8
-中华特产,http://150.138.8.143/00/SNM/CHANNEL00000642/index.m3u8               
+中华特产,http://150.138.8.143/00/SNM/CHANNEL00000642/index.m3u8
 环球旅游,http://150.138.8.143/00/SNM/CHANNEL00000643/index.m3u8
 生态环境,http://150.138.8.143/00/SNM/CHANNEL00000644/index.m3u8
 车迷频道,http://150.138.8.143/00/SNM/CHANNEL00000645/index.m3u8
@@ -155,8 +155,7 @@ SiTV欢笑剧场4K.http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221
 上海外语,http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8
 上海第一财经,http://39.134.39.39/PLTV/88888888/224/3221226172/index.m3u8
 上海纪实人文,http://39.134.39.39/PLTV/88888888/224/3221226174/index.m3u8
-北京冬奥纪实,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
-北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+北京冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
 福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 福建海峡,rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 福建综合,rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
@@ -191,8 +190,8 @@ SiTV欢笑剧场4K.http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221
 江苏影视,http://223.110.241.150:6610/gitv/live1/G_JSYS/G_JSYS/
 江苏休闲体育,http://223.110.241.150:6610/gitv/live1/G_JSTY/G_JSTY/
 江苏综艺,http://223.110.241.150:6610/gitv/live1/G_JSZY/G_JSZY/
-九江公共频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8 
-九江新闻综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8 
+九江公共频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
+九江新闻综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 南京新闻综合,http://223.110.241.150:6610/gitv/live1/G_NJXW/G_NJXW/
 南京科教,http://223.110.241.150:6610/gitv/live1/G_NJJK/G_NJJK/
 南京十八,http://223.110.241.150:6610/gitv/live1/G_NJSB/G_NJSB/
@@ -214,18 +213,18 @@ SiTV欢笑剧场4K.http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 阿尔巴利亚,http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-美国  狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-彭博财经(美)Bloomberg TV,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+美国狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+彭博财经(美)BloombergTV,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-美国购物QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-美国购物QVC Beauty TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-美国Denver 8 TV,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-美国l 美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-美国l 中国环球 (美国),http://live.cgtn.com/1000/prog_index.m3u8
+美国购物QVCTVHDUK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+美国购物QVCBeautyTVHDUK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+美国Denver8TV,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+美国l美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+美国l中国环球(美国),http://live.cgtn.com/1000/prog_index.m3u8
 越南越南,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 M2OTV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 KPRF,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 Ytv,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
-越南PTP hd,http://113.161.4.48:8080/phuyen/tv.m3u8
-美国 Ⅰ 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-法国 Ⅰ 第五世界台,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+越南PTPhd,http://113.161.4.48:8080/phuyen/tv.m3u8
+美国Ⅰ法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+法国Ⅰ第五世界台,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
