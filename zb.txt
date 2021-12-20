@@ -252,8 +252,6 @@ SiTV欢笑剧场4K.http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221
 沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8#http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8#http://live.dxhmt.cn:9081/tv/10825-1.m3u8
 武陟新闻综合,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8  #http://live.dxhmt.cn:9081/tv/10823-1.m3u8#http://live.dxhmt.cn:9080/wuzhiAdmin/719b76b2e06e456e9b30ad2b03e9122d.m3u8
-武陟综艺,http://tvpull.dxhmt.cn:9081/tv/10823-2.m3u8#http://live.dxhmt.cn:9081/tv/10823-2.m3u8
-修武一套,http://tvpull.dxhmt.cn:9081/tv/10821-1.m3u8#http://live.dxhmt.cn:9081/tv/10821-1.m3u8
 建安综合,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8#http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 襄城综合,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8#http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8#http://live.dxhmt.cn:9081/tv/11024-1.m3u8
@@ -301,7 +299,6 @@ SiTV欢笑剧场4K.http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221
 遂平一套,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8#http://live.dxhmt.cn:9081/tv/11728-1.m3u8
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8#http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 西平综合,http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8#http://live.dxhmt.cn:9081/tv/11721-1.m3u8
-正阳一套,http://tvpull.dxhmt.cn:9081/tv/11724-1.m3u8#http://live.dxhmt.cn:9081/tv/11724-1.m3u8
 长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8#http://live.dxhmt.cn:9081/tv/10728-1.m3u8
 封丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8#http://live.dxhmt.cn:9081/tv/10727-1.m3u8
 封丘城乡生活,http://tvpull.dxhmt.cn:9081/tv/10727-2.m3u8#http://live.dxhmt.cn:9081/tv/10727-2.m3u8
@@ -376,7 +373,6 @@ CHC 高清电影,http://iptv.tvfix.org/hls/chchd.m3u8#http://39.134.18.69/dbiptv
 五星体育高清,http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 
 海外频道,#genre#
-俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新马l亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -389,7 +385,6 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 美国购物QVCTVHDUK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 美国购物QVCBeautyTVHDUK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
 美国Denver8TV,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-美国l美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 美国l中国环球(美国),http://live.cgtn.com/1000/prog_index.m3u8
 越南越南,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 M2OTV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
