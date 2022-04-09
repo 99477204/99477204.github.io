@@ -140,10 +140,108 @@ IPTV5+,http://150.138.8.143/00/SNM/CHANNEL00000703/index.m3u8
 足球,http://150.138.8.143/00/SNM/CHANNEL00000704/index.m3u8
 
 港台频道,#genre#
-凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
-凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.36/PLTV/3/224/3221226975/index.m3u8
-翡翠台,http://113.64.147.176:808/hls/67/index.m3u8
+凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
+凤凰资讯台,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8#http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+翡翠台,http://113.64.147.176:808/hls/67/index.m3u8#http://iptv.tvfix.org/hls/jade.m3u8#http://iptv.tvfix.org/hls/jade2.m3u8#http://iptv.tvfix.org/hls/jadenhk.m3u8#http://iptv.tvfix.org/hls/jadenhk2.m3u8
+J2,http://120.84.96.29:808/hls/86/index.m3u8#http://iptv.tvfix.org/hls/j2.m3u8#http://iptv.tvfix.org/hls/j22.m3u8
+埋堆堆,http://120.84.96.29:808/hls/86/index.m3u8
+无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8#http://iptv.tvfix.org/hls/inews2.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8#http://iptv.tvfix.org/hls/pearl2.m3u8
+无线财经资讯台,http://iptv.tvfix.org/hls/finance.m3u8#http://iptv.tvfix.org/hls/finance2.m3u8#http://iptv.tvfix.org/hls/financenhk.m3u8
+ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8#http://iptv.tvfix.org/hls/viutv2.m3u8
+ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
+RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
+RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
+凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+HK国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
+HK开电视,http://iptv.tvfix.org/hls/opentv.m3u8
+美亚电影台(粤语),http://iptv.tvfix.org/hls/mydy.m3u8
+美亚电影台(普通话),http://iptv.tvfix.org/hls/mydy2.m3u8
+卫视电影台,http://iptv.tvfix.org/hls/starmovies.m3u8
+天映频道,http://iptv.tvfix.org/hls/typd.m3u8
+天映经典,http://iptv.tvfix.org/hls/tyjd.m3u8
+天映经典(第2声道),http://iptv.tvfix.org/hls/tyjd2.m3u8
+HBO(第1声道粤语),http://iptv.tvfix.org/hls/hbo.m3u8
+HBO(第2声道原声),http://iptv.tvfix.org/hls/hbo2.m3u8
+HBO Hits(第1声道粤语),http://iptv.tvfix.org/hls/hbohits.m3u8
+HBO Hits(第2声道原声),http://iptv.tvfix.org/hls/hbohits2.m3u8
+HBO Family(第1声道粤语),http://iptv.tvfix.org/hls/hbofamily.m3u8
+HBO Family(第2声道原声),http://iptv.tvfix.org/hls/hbofamily2.m3u8
+HBO Signature(第1声道粤语),http://iptv.tvfix.org/hls/hbosignature.m3u8
+HBO Signature(第2声道原声),http://iptv.tvfix.org/hls/hbosignature2.m3u8
+TVB星河,http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
+TVB功夫,http://iptv.tvfix.org/hls/tvbkf.m3u8
+TVB功夫,http://iptv.tvfix.org/hls/tvbkf2.m3u8
+TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
+Hands Up Channel,http://iptv.tvfix.org/hls/kid2.m3u8
+Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
+星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
+TVB翡翠台,http://liunk.usa7.20212021.ga/ns.php?id=78
+无线新闻台,http://liunk.usa7.20212021.ga/ns.php?id=73
+有线新闻台,http://liunk.usa7.20212021.ga/ns.php?id=62
+TVB星河台,http://liunk.usa7.20212021.ga/ns.php?id=76
+TVBJ2,http://liunk.usa7.20212021.ga/ns.php?id=74
+有线18台,http://liunk.usa7.20212021.ga/ns.php?id=59
+有线好莱坞电影,http://liunk.usa7.20212021.ga/ns.php?id=54
+RHK32,http://liunk.usa7.20212021.ga/ns.php?id=97
+RHK31,http://liunk.usa7.20212021.ga/ns.php?id=96
+香港开电视,http://liunk.usa7.20212021.ga/ns.php?id=95
+ViuTv,http://liunk.usa7.20212021.ga/ns.php?id=94
+香港有线603台,http://liunk.usa7.20212021.ga/ns.php?id=92
+莲花卫视,http://liunk.usa7.20212021.ga/ns.php?id=88
+无线财经台,http://liunk.usa7.20212021.ga/ns.php?id=79
+澳视高清台,http://liunk.usa7.20212021.ga/ns.php?id=52
+澳视体育台,http://liunk.usa7.20212021.ga/ns.php?id=50
+澳门葡语,http://liunk.usa7.20212021.ga/ns.php?id=51
+非凡新闻,http://liunk.usa7.20212021.ga/ns.php?id=6
+卫视中文,http://liunk.usa7.20212021.ga/ns.php?id=4
+民视新闻,http://liunk.usa7.20212021.ga/ns.php?id=5
+年代新闻,http://liunk.usa7.20212021.ga/ns.php?id=7
+纬来电影,http://liunk.usa7.20212021.ga/ns.php?id=9
+纬来日本,http://liunk.usa7.20212021.ga/ns.php?id=10
+纬来体育,http://liunk.usa7.20212021.ga/ns.php?id=11
+纬来综合,http://liunk.usa7.20212021.ga/ns.php?id=12
+龙祥时代,http://liunk.usa7.20212021.ga/ns.php?id=13
+天映频道,http://liunk.usa7.20212021.ga/ns.php?id=15
+八大娱乐台,http://liunk.usa7.20212021.ga/ns.php?id=20
+中视新闻,http://liunk.usa7.20212021.ga/ns.php?id=19
+八大第一台,http://liunk.usa7.20212021.ga/ns.php?id=21
+八大综合,http://liunk.usa7.20212021.ga/ns.php?id=22
+三立台湾,http://liunk.usa7.20212021.ga/ns.php?id=24
+三立都会,http://liunk.usa7.20212021.ga/ns.php?id=25
+三立新闻,http://liunk.usa7.20212021.ga/ns.php?id=26
+东森电影,http://liunk.usa7.20212021.ga/ns.php?id=29
+东森yoyo,http://liunk.usa7.20212021.ga/ns.php?id=31
+东森综合,http://liunk.usa7.20212021.ga/ns.php?id=32
+东森新闻,http://liunk.usa7.20212021.ga/ns.php?id=33
+壹新闻,http://liunk.usa7.20212021.ga/ns.php?id=35
+TVBS,http://liunk.usa7.20212021.ga/ns.php?id=37
+TVBS新闻,http://liunk.usa7.20212021.ga/ns.php?id=38
+中天亚洲台,http://liunk.usa7.20212021.ga/ns.php?id=39
+中天娱乐,http://liunk.usa7.20212021.ga/ns.php?id=40
+中天综合,http://liunk.usa7.20212021.ga/ns.php?id=41
+中天新闻,http://liunk.usa7.20212021.ga/ns.php?id=42
+公视,http://liunk.usa7.20212021.ga/ns.php?id=43
+民视,http://liunk.usa7.20212021.ga/ns.php?id=44
+华视,http://liunk.usa7.20212021.ga/ns.php?id=46
+中视,http://liunk.usa7.20212021.ga/ns.php?id=47
+台视,http://liunk.usa7.20212021.ga/ns.php?id=45
+环宇台湾,http://liunk.usa7.20212021.ga/ns.php?id=84
+壹电视新闻台,http://liunk.usa7.20212021.ga/ns.php?id=34
+TVBS欢乐台,http://liunk.usa7.20212021.ga/ns.php?id=36
+东森亚洲台,http://liunk.usa7.20212021.ga/ns.php?id=30
+东森洋片台,http://liunk.usa7.20212021.ga/ns.php?id=28
+东森财经新闻台,http://liunk.usa7.20212021.ga/ns.php?id=27
+三立国际台,http://liunk.usa7.20212021.ga/ns.php?id=23
+中视综合台,http://liunk.usa7.20212021.ga/ns.php?id=18
+中视综艺台,http://liunk.usa7.20212021.ga/ns.php?id=17
+卫视电影台,http://liunk.usa7.20212021.ga/ns.php?id=16
+龙祥电影台,http://liunk.usa7.20212021.ga/ns.php?id=14
+星空国际台,http://liunk.usa7.20212021.ga/ns.php?id=3
 
 4K频道,#genre#
 SiTV欢笑剧场4K.http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
