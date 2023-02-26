@@ -191,6 +191,14 @@ http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
 #EXTINF:-1 tvg-name="菏泽财经法制" group-title="省内频道",菏泽财经法制
 http://150.138.8.143/00/SNM/CHANNEL00000233/index.m3u8
+#EXTINF:-1 tvg-name="菏泽单县综合" group-title="省内频道",菏泽单县综合
+http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
+#EXTINF:-1 tvg-name="菏泽郓城新闻" group-title="省内频道",菏泽郓城新闻
+http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1 tvg-name="菏泽巨野新闻" group-title="省内频道",菏泽巨野新闻
+http://150.138.8.143/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1 tvg-name="菏泽莘县" group-title="省内频道",菏泽莘县
+http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 #EXTINF:-1 tvg-name="济宁综合" group-title="省内频道",济宁综合
 http://150.138.8.143/00/SNM/CHANNEL00000238/index.m3u8
 #EXTINF:-1 tvg-name="济宁教育" group-title="省内频道",济宁教育
